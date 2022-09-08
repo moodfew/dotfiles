@@ -1,0 +1,31 @@
+[Info  - 8:25:41 PM] (27814) Pylance language server 2022.7.40 (pyright bd00e0d1) starting
+[Info  - 8:25:41 PM] (27814) Server root directory: /home/denis/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist
+Notebook support: Legacy
+[Info  - 8:26:07 PM] (27814) No pyproject.toml file found.
+[Warn  - 8:26:07 PM] (27814) stubPath typings is not a valid directory.
+[Info  - 8:26:07 PM] (27814) Assuming Python platform Linux
+[Info  - 8:26:09 PM] (27814) Searching for source files
+[Info  - 8:26:10 PM] (27814) No source files found.
+[Info  - 8:26:12 PM] (27814) Background analysis(1) root directory: /home/denis/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist
+[Info  - 8:26:12 PM] (27814) Background analysis(1) started
+[Info  - 8:26:54 PM] (27814) No pyproject.toml file found.
+[Info  - 8:26:54 PM] (27814) Setting pythonPath for service "<default>": "/usr/bin/python"
+[Warn  - 8:26:54 PM] (27814) stubPath typings is not a valid directory.
+[Info  - 8:26:54 PM] (27814) Assuming Python version 3.10
+[Info  - 8:26:54 PM] (27814) Assuming Python platform Linux
+[Info  - 8:26:54 PM] (27814) Searching for source files
+[Info  - 8:26:54 PM] (27814) No source files found.
+[Info  - 8:26:54 PM] (27814) No pyproject.toml file found.
+[Info  - 8:26:54 PM] (27814) Setting pythonPath for service "<default>": "/usr/bin/python"
+[Warn  - 8:26:54 PM] (27814) stubPath typings is not a valid directory.
+[Info  - 8:26:55 PM] (27814) Assuming Python version 3.10
+[Info  - 8:26:55 PM] (27814) Assuming Python platform Linux
+[Info  - 8:26:55 PM] (27814) Searching for source files
+[Info  - 8:26:55 PM] (27814) No source files found.
+[Info  - 8:26:55 PM] (27814) No pyproject.toml file found.
+[Info  - 8:26:55 PM] (27814) Setting pythonPath for service "<default>": "/usr/bin/python"
+[Warn  - 8:26:55 PM] (27814) stubPath typings is not a valid directory.
+[Info  - 8:26:55 PM] (27814) Assuming Python version 3.10
+[Info  - 8:26:55 PM] (27814) Assuming Python platform Linux
+[Info  - 8:26:55 PM] (27814) Searching for source files
+[Info  - 8:26:55 PM] (27814) No source files found.

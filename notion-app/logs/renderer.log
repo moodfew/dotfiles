@@ -1,0 +1,18 @@
+[2022-07-23 00:08:21.047] [info] Failed to load: {
+  isTrusted: false,
+  errorCode: -3,
+  errorDescription: '',
+  validatedURL: 'https://indify.co/widgets/live/counter/KezzJugVw2ro5CSg540M',
+  isMainFrame: false,
+  frameProcessId: 11,
+  frameRoutingId: 6
+}
+[2022-07-23 00:08:24.180] [info] Failed to load: {
+  isTrusted: false,
+  errorCode: -3,
+  errorDescription: '',
+  validatedURL: 'https://indify.co/widgets/live/counter/KezzJugVw2ro5CSg540M',
+  isMainFrame: false,
+  frameProcessId: 11,
+  frameRoutingId: 13
+}

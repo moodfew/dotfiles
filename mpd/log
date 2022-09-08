@@ -1,0 +1,683 @@
+Jul 22 14:34 : exception: Failed to open '/home/denis/.config/mpd/state': No such file or directory
+Jul 22 14:45 : update: added /In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a
+Jul 22 14:59 : output: Failed to play on "pulseaudio" (pulse): suspended
+Jul 22 15:02 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:17 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:17 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:23 : update: removing In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a
+Jul 22 16:23 : update: added /In The End -Linkin Park.m4a
+Jul 22 16:25 : update: removing In The End -Linkin Park.m4a
+Jul 22 16:26 : update: added /In The End -Linkin Park.m4a
+Jul 22 16:28 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:28 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:28 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:29 : update: removing In The End -Linkin Park.m4a
+Jul 22 16:29 : update: added /In The End-Linkin Park.m4a
+Jul 22 16:32 : update: removing In The End-Linkin Park.m4a
+Jul 22 16:32 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:32 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:32 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:32 : update: added /In The End-Linkin Park.mp3
+Jul 22 16:32 : player: played "In The End-Linkin Park.mp3"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:33 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:33 : player: played "In The End -Linkin Park.m4a"
+Jul 22 16:34 : update: removing In The End-Linkin Park.mp3
+Jul 22 16:34 : update: added /In The End-Linkin Park.m4a
+Jul 22 16:34 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 16:34 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:34 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 16:34 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 16:34 : player: played "In The End -Linkin Park.m4a"
+Jul 22 20:39 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 20:39 : player: played "In The End -Linkin Park.m4a"
+Jul 22 20:39 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 20:39 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 20:39 : player: played "In The End -Linkin Park.m4a"
+Jul 22 20:45 : player: played "In The End-Linkin Park.m4a"
+Jul 22 20:50 : exception: Failed to decode /home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a; Failed to open '/home/denis/Music/In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a': No such file or directory
+Jul 22 20:50 : player: played "In The End [Official HD Music Video] - Linkin Park-eVTXPUF4Oz4.m4a"
+Jul 22 20:50 : exception: Failed to decode /home/denis/Music/In The End -Linkin Park.m4a; Failed to open '/home/denis/Music/In The End -Linkin Park.m4a': No such file or directory
+Jul 22 20:50 : player: played "In The End -Linkin Park.m4a"
+Jul 22 20:59 : player: played "In The End-Linkin Park.m4a"
+Jul 22 23:26 : player: played "In The End-Linkin Park.m4a"
+Jul 23 00:11 : player: played "In The End-Linkin Park.m4a"
+Jul 24 00:16 : player: played "In The End-Linkin Park.m4a"
+Aug 29 19:33 : player: played "In The End-Linkin Park.m4a"
+Aug 29 21:09 : player: played "In The End-Linkin Park.m4a"
+Aug 30 22:33 : player: played "In The End-Linkin Park.m4a"
+Aug 30 22:41 : player: played "In The End-Linkin Park.m4a"
+Aug 31 11:37 : player: played "In The End-Linkin Park.m4a"
+Aug 31 15:31 : player: played "In The End-Linkin Park.m4a"
+Aug 31 16:56 : player: played "In The End-Linkin Park.m4a"
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /C-Block   So Strung Out  (The Distance & Riddick Edit).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /XXXTENTACION - Jocelyn Flores (Audio).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Alexander Rybak - Fairytale.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /twenty one pilots_ Stressed Out _OFFICIAL VIDEO_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Wiz Khalifa - See You Again ft. Charlie Puth _Official Video_ Furious 7 Soundtrack.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Cartoon - On & On (feat. Daniel Levi) _NCS Release_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /KSLV - Disaster.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Daddy Yankee ft. J Alvarez - El Amante (Video Oficial).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /David Guetta - Dangerous (Lyric Video) ft Sam Martin.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Alan Walker - Faded.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Sam Tinnesz - Play With Fire feat. Yacht Money _Official Audio_.m4a
+Aug 31 17:06 : update: added /Roy Jones - Can't be touched.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Sean Paul - She Doesn't Mind (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Masked Wolf - Astronaut In The Ocean (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Topic, A7S - Breaking Me ft. A7S.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Halsey - Walls Could Talk (Audio).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Centuries.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Fears (5ivers Interlude) _Slowed Remix_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Russ Millions x Tion Wayne - Body _Music Video_ _ GRM Daily.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Naruto Shippuden OST - Shitsui (Sasori's Theme).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /What I've Done _Official Music Video_ - Linkin Park.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /KALEO - Way Down We Go (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Bleach OST - Fade to Black B07A.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /50 Cent - Just A Lil Bit (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Snoop Dogg - Boom ft. T-Pain.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /In The End _Official HD Music Video_ - Linkin Park.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /XXXTENTACION - SAD!.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Fall.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Imagine Dragons - Natural.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Michael Jackson - Billie Jean (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Ed Sheeran - Remember The Name (feat. Eminem & 50 Cent) _Official Lyric Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /AURORA - Runaway.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /André Rieu - O Fortuna (Carmina Burana - Carl Orff).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Hiroyuki Sawano  “Attack on Titan” Vogel im käfig live YOUSEEBIGGIRL_T_T.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /The Tokens - The Lion Sleeps Tonight.mp3.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /linkin park - what i’ve done (slowed _ reverb).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /David Guetta - She Wolf (Falling To Pieces) ft. Sia (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Lose Yourself _HD_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Ace Hood - Bugatti (Official Music Video) (Explicit) ft. Future, Rick Ross.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Panic! At The Disco - House of Memories (Official Audio).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Fall Out Boy - Immortals (Official Music Video) (From _Big Hero 6_).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Gotye - Somebody That I Used To Know (feat. Kimbra) _Official Music Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /2pac feat Dr.Dre - California Love HD.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Dillon Francis & DJ Snake - Get Low.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Michael Jackson - Smooth Criminal (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /LMFAO ft. Lauren Bennett, GoonRock - Party Rock Anthem (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Dragon Ball Z - Unofficial Super Saiyan 3 Broly Theme (The Enigma TNG).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Ed Sheeran - Shape of You (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /How To Train Your Dragon Theme _ EPIC ORCHESTRAL MEDLEY.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /The Godfather - Love Theme HQ - Nino Rota.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Wiz Khalifa - Black And Yellow _Official Music Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Hozier - Take Me To Church.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Remember The Name (Official Video) - Fort Minor.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Beautiful (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /50 Cent - Candy Shop (Official Music Video) ft. Olivia.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Wiz Khalifa - No Sleep _Music Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Really Slow Motion - Deadwood (Epic Dark Rock Action).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Rihanna - S&M (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Naruto Shippuden OST - Shitsui (Despair) Extended.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Kanye West - All Mine (Lyric Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /300 Violin Orchestra - Jorge Quintero (High Quality).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Man of the World (Itachi's Life) - Naruto Sad Soundtrack - Ne Prosto Orchestra.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Arctic Monkeys - Do I Wanna Know_ (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Remble - Touchable (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Imagine Dragons & JID - Enemy (from the series Arcane League of Legends) _ Official Music Video.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /OMI - Cheerleader (Felix Jaehn Remix) _Official Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Ludovico Einaudi - Experience.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Faydee - Can't Let Go (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /David Guetta & Sia - Flames (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /50 Cent - P.I.M.P. (Snoop Dogg Remix) ft. Snoop Dogg, G-Unit.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Mr.Kitty - After Dark.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Marshmello ft. Bastille - Happier (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /NF - The Search.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /5 Seconds of Summer - Teeth (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Passenger _ Let Her Go (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Stephen - Crossfire.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Naughty Boy - La la la ft. Sam Smith (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Clean Bandit - Symphony (feat. Zara Larsson) _Official Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Beerus _ EPIC OST MIX _ビルス_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /System Of A Down - Chop Suey! (Official HD Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /MC L Da Vinte e MC Gury - Parado no Bailão  (Funk Explode).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Jawsh 685, Jason Derulo - Savage Love (Laxed - Siren Beat) (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Tom Odell - Another Love (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Ichigo vs Aizen AMV - Skillet - Comatose.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Unknown Brain x Rival - Control (feat. Jex) _NCS Release_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /RISE (ft. The Glitch Mob, Mako, and The Word Alive) _ Worlds 2018 - League of Legends.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /NF - Let You Down.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Swedish House Mafia ft. John Martin - Don't You Worry Child (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Ed Sheeran - Perfect (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /The Chainsmokers & Coldplay - Something Just Like This (Lyric).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Indila - Dernière Danse (Clip Officiel).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Physika - My Power _GBD222_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Pentatonix - God Rest Ye Merry Gentlemen (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Coolio - Gangsta's Paradise (feat. L.V.) _Official Music Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Billie Eilish - bad guy.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Nathan Evans - Wellerman (TikTok Sea Shanty) _ Official Audio.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Ice Cube - Why We Thugs (HD_Dirty_Lyrics).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /David Guetta - Play Hard ft. Ne-Yo, Akon (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Michael Jackson - Beat It (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Gym Class Heroes_ Stereo Hearts ft. Adam Levine _OFFICIAL VIDEO_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /TONES AND I - DANCE MONKEY (OFFICIAL VIDEO).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Without Me (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Lil Wayne - Drop The World ft. Eminem (Official Music Video) ft. Eminem.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /James Horner - Never An Absolution (From _Titanic_).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Godzilla ft. Juice WRLD (Directed by Cole Bennett).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - You Don't Know (Official Music Video) ft. 50 Cent, Cashis, Lloyd Banks.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /God of War III Overture - Gerard Marino (soundtrack).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Sucker for pain (lyrics).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Coldplay - Adventure Of A Lifetime (Official Video).m4a
+Aug 31 17:06 : update: added /David Guetta - Titanium ft. Sia (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Love The Way You Lie ft. Rihanna.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Rihanna - Towards The Sun (Lyric Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Gorillaz - Clint Eastwood (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Skrillex - First Of The Year (Equinox) _Official Music Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Post Malone - Better Now.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Bella Ciao _ La Casa de Papel Manu Pilas -Letras.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /OneRepublic - Counting Stars (Official Music Video).m4a
+Aug 31 17:06 : update: added /Michael Jackson - Liberian Girl.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Billie Eilish, Khalid - lovely.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Desiigner - Panda (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /2CELLOS - Game of Thrones _Live at Sydney Opera House_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Katy Perry - Dark Horse (Official) ft. Juicy J.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Hans Zimmer - Circle Of Life _ King Of Pride Rock - From The Lion King (Live In Prague).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /What Goes Around...Comes Around (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Stan (Long Version) ft. Dido.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /SKRILLEX - Bangarang feat. Sirah _Official Music Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Chamillionaire - Ridin' (Official Music Video) ft. Krayzie Bone.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Indila - Dernière Danse (SLOWED _ Reverb).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /NF - When I Grow Up.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /MACKLEMORE & RYAN LEWIS - CAN'T HOLD US FEAT. RAY DALTON (OFFICIAL MUSIC VIDEO).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /DJ Snake, Lil Jon - Turn Down for What.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Rag'n'Bone Man - Human (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Lose Yourself_1080p_..m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /NF - CLOUDS.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Maroon 5 - Animals (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /The Game - My Life ft. Lil Wayne (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Coldplay - Hymn For The Weekend (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /James Arthur - Impossible (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Sam Smith - I'm Not The Only One (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Travis Scott - goosebumps ft. Kendrick Lamar.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /The Pink Panther Theme - Henry Mancini & His Orchestra.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /John Legend - All of Me (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Tiësto - The Business (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /NEFFEX - Soldier 🔥 _Copyright Free_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Duncan Laurence - Arcade (Lyric Video) ft. FLETCHER.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Drake, Kanye West, Lil Wayne, Eminem - Forever (Explicit Version) (Official Music Video).m4a
+Aug 31 17:06 : update: added /Queen - We Will Rock You (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Lil Wayne - Lollipop ft. Static (Official Music Video) ft. Static.m4a
+Aug 31 17:06 : update: added /my ordinary life (slowed _ reverb).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Usher - Yeah! (Official Video) ft. Lil Jon, Ludacris.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Pitbull - Feel This Moment (Official Video) ft. Christina Aguilera.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Not Afraid (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Fall Out Boy - Centuries (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Hans Zimmer - Oogway Ascends Kung Fu Panda Soundtrack.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /LSD - Genius ft. Sia, Diplo, Labrinth.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Indila-Ainsi bas la vida.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /joker (Outro).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Skrillex & Rick Ross - Purple Lamborghini _Official Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Mockingbird (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Panic! At The Disco - The Greatest Show (from The Greatest Showman_ Reimagined) _Official Audio_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /til i collapse - eminem ( slowed _ reverb ).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Panic! At The Disco - Bohemian Rhapsody (Live) _from the Death Of A Bachelor Tour_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Snoop Dogg & Wiz Khalifa - Young, Wild and Free ft. Bruno Mars _Official Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Alan Walker - Darkside (feat. Au_Ra and Tomine Harket).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Adele - Hello.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Maluma - Corazón (Official Video) ft. Nego do Borel.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Requiem for a Dream - Best Trailer Music Ever!.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - The Real Slim Shady (Official Video - Clean Version).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Coldplay - Yellow (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) _Official Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Lewis Capaldi - Someone You Loved.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /The Script - Hall of Fame (Official Video) ft. will.i.am.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /50 Cent - In Da Club (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /DMX - X Gon' Give It To Ya (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Numb _Official Music Video_ - Linkin Park.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Scorpions - Wind Of Change (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Martin Garrix - Animals (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Sean Paul - Temperature (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Alessia Cara - Here (Lucian Remix).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem ft. Rihanna - The Monster (Explicit) _Official Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /twenty one pilots_ Heathens (from Suicide Squad_ The Album) _OFFICIAL VIDEO_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /EMINEM - VENOM( KNOCK KNOCK -LET THE DEVIL IN) ( VENOM SOUNDTRACK).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Vogel im Käfig (From _Attack on Titan_).m4a
+Aug 31 17:06 : update: added /DMX - Where The Hood At_ (Dirty) (Music Video) HQ.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /The Game - How We Do (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Russ Millions x Tion Wayne - Keisha & Becky (Remix) ft. Aitch, JAY1, Sav'O & Swarmz _Music Video_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Boom.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Counting Stars - OneRepublic (violin_cello_bass cover) Simply Three.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Cleanin' Out My Closet (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Balluket e ballit moj.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Ed Sheeran - I See Fire (Music Video).m4a
+Aug 31 17:06 : update: added /michael andrews-mad world.m4a
+Aug 31 17:06 : update: added /Flo Rida - Right Round (feat. Ke$ha) _US Version_ (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Crazy Frog - Axel F (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Warriyo - Mortals (feat. Laura Brehm) _NCS Release_.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Crazy Town - Butterfly (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Death Note - (Writing Theme C) Music.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /XXXTENTACION - Hope.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Future - Mask Off (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Maître Gims - J'me tire (Clip officiel).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - No Love (Explicit Version) ft. Lil Wayne.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Eminem - Sing For The Moment (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Lil Nas X - HOLIDAY (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Ajay Stevens - Memories (Drinks Bring Back).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /FIFTY VINC - WAY OF THE WARRIOR (HARD AGGRESSIVE DISS_RAP INSTRUMENTAL BANGER BEAT).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Assassin's Creed 2 OST _ Jesper Kyd - Ezio's Family (Track 03).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Faydee Ft Lazy J - Laugh Till You Cry (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Dr. Dre - Still D.R.E. (Official Music Video) ft. Snoop Dogg.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Lil Nas X - MONTERO (Call Me By Your Name) (Official Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /SKRILLEX - KYOTO (FT. SIRAH).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Imagine Dragons - Believer.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Stromae - Papaoutai (Official Music Video).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Bomfunk MC's - Freestyler (Video Original Version).m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Bad Style Time Back.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Legends Never Die (ft. Against The Current) _ Worlds 2017 - League of Legends.m4a
+Aug 31 17:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:06 : update: added /Assassins Creed Valhalla - My Mother Told Me (Peyton Parrish Cover).m4a
+Aug 31 17:10 : player: played "In The End-Linkin Park.m4a"
+Aug 31 17:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:21 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:21 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:21 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 17:27 : player: played "Daddy Yankee ft. J Alvarez - El Amante (Video Oficial).m4a"
+Aug 31 17:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:04 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:14 : player: played "Eminem - Lose Yourself _HD_.m4a"
+Aug 31 18:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 31 18:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 01 00:10 : player: played "Eminem - Mockingbird (Official Music Video).m4a"
+Sep 01 00:10 : output: Failed to pause "pulseaudio" (pulse): failed to connect the stream: Connection terminated
+Sep 01 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 01 19:15 : player: played "Eminem - Mockingbird (Official Music Video).m4a"
+Sep 02 10:53 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:29 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:32 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:32 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:32 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:38 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 02 14:41 : player: played "Faydee - Can't Let Go (Official Video).m4a"
+Sep 03 14:09 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 03 14:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 03 14:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 03 14:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 03 14:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 03 14:28 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 03 14:28 : player: played "God of War III Overture - Gerard Marino (soundtrack).m4a"
+Sep 03 14:28 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 03 22:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 04 14:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 05 11:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 12:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 12:32 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 12:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 12:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 818176)
+Sep 06 12:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Sep 06 12:33 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Sep 06 12:33 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Sep 06 12:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0x48adb: partial file
+Sep 06 12:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 12:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 12:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1125376)
+Sep 06 12:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Sep 06 12:34 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Sep 06 12:34 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Sep 06 12:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0x63e0d: partial file
+Sep 06 12:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 12:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 12:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:01 : player: played "Mr.Kitty - After Dark.m4a"
+Sep 06 14:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:39 : player: played "Mr.Kitty - After Dark.m4a"
+Sep 06 14:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:43 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:43 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:46 : player: played "NEFFEX - Soldier 🔥 _Copyright Free_.m4a"
+Sep 06 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 14:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 18:57 : player: played "Numb _Official Music Video_ - Linkin Park.m4a"
+Sep 06 19:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 06 19:28 : player: played "Numb _Official Music Video_ - Linkin Park.m4a"
+Sep 06 19:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 07 13:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 08 10:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 08 12:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 08 12:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 08 12:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 08 12:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 08 12:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 08 12:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Sep 08 12:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set

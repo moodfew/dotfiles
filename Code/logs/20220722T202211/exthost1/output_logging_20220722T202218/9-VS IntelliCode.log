@@ -1,0 +1,9 @@
+Language server is set to "Default". Pylance is used as current language server.
+Acquiring model
+Acquiring model 'intellisense-members-lstm-pylance' for python
+Querying IntelliCode service for available models.
+vs-intellicode-python was passed a model: {}.
+Downloading model.
+Starting download of https://intellicodeprodstorage.blob.core.windows.net/models-prod-output/Output_E61945A9A512ED5E1A3EE3F1A2365B88F8FE_E4E9EADA96734F01970E616FAB2FAC19?skoid=d55470dd-eb51-47c3-a603-e037bb57f59e&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2022-07-22T13%3A26%3A35Z&ske=2022-07-23T13%3A26%3A35Z&sks=b&skv=2020-02-10&sv=2020-02-10&se=2022-07-22T16%3A59%3A48Z&sr=b&sp=r&sig=c2qJmS%2B570foARkzVAkKa8BW1lCtvoWW9Ki%2ByCg3RTo%3D
+Download complete.
+Activating Python extension

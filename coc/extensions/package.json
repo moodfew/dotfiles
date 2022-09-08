@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "coc-json": ">=1.6.1",
+    "coc-prettier": ">=9.3.1",
+    "coc-pyright": ">=1.1.268",
+    "coc-spell-checker": ">=1.2.0",
+    "coc-tsserver": ">=1.11.5"
+  }
+}
